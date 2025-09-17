@@ -4,18 +4,19 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 [![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
-# How to retrieve a list of misspelled words and display them in a label
 
-The example performs automatic spell checking so a user can see what words were written incorrectly. In the example, the text is not corrected.
+# ASP.NET Web Forms Spell Checker - Display misspelled words in a label
 
-Automatic spell checking is demonstrated in the following example: [How to perform automatic spell checking](https://github.com/DevExpress-Examples/asp-net-web-forms-spell-checker-auto-correct-spelling).
+When the [DevExpress ASP.NET Web Forms Spell Checker](https://docs.devexpress.com/AspNet/3686/components/spell-checker) finds a word missing from dictionaries, the control displays the check spelling form. This form allows users to correct, skip, or ignore the word. In this example, the [ASPxSpellChecker](https://docs.devexpress.com/AspNet/3686/components/spell-checker) control retrives a list of misspelled words and displays them in a label.
 
-<!-- default file list -->
 ## Files to Review
 
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
-<!-- default file list end -->
+
+## More Examples
+
+* [ASP.NET Web Forms Spell Checker - Correct spelling automatically](https://github.com/DevExpress-Examples/asp-net-web-forms-spell-checker-auto-correct-spelling)
 
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
@@ -24,3 +25,4 @@ Automatic spell checking is demonstrated in the following example: [How to perfo
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
