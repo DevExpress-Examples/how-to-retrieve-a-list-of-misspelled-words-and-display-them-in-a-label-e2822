@@ -19,7 +19,7 @@ When the [DevExpress ASP.NET Web Forms Spell Checker](https://docs.devexpress.co
 * [ASP.NET Web Forms Spell Checker - Correct spelling automatically](https://github.com/DevExpress-Examples/asp-net-web-forms-spell-checker-auto-correct-spelling)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-spell-checker-display-misspelled-words-in-label&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-spell-checker-display-misspelled-words-in-label&~~~was_helpful=no)
 
